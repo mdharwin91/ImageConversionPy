@@ -1,0 +1,5 @@
+input_directory =E:\ImageConvertion
+output_directory =E:\ImageConvertion\OUTPUT
+target_width=150
+target_height=175
+target_size_kb=25

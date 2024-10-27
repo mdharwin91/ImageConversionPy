@@ -1,0 +1,4 @@
+ipinfo.io/json
+9lqd6cnw69.execute-api.ap-south-1.amazonaws.com/default/ip_address_update
+0293
+lm2N7IuEaK3IdBHjLmdNS6IBiz6W7HZv3W2p9Oji

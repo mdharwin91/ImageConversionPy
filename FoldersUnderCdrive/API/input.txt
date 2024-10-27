@@ -1,0 +1,1 @@
+https://gjles2nn98.execute-api.ap-south-1.amazonaws.com/default/ip_address_update
